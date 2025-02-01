@@ -72,6 +72,6 @@ g++ server.cpp -o s -lssl -lcrypto
 ### **🔹 Compile the Client:**
 g++ client.cpp -o c -lssl -lcrypto
 
-### ** Execute: **
+### **Execute:**
 - **./s** -> for server.cpp on one terminal
 - **./c** -> for client.cpp on another terminal
