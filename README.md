@@ -55,6 +55,11 @@ It uses **Diffie-Hellman key exchange** for key agreement and **AES-128 encrypti
 - **User Authentication**: Manages **user registration and login**.
 - **Secure Chat**: Facilitates **encrypted chat sessions** between the client and server.
 
+### **📌 creds.txt file**
+- This file stores all user credentials with their usernames and encrypted passwords.
+- It also stores salt values being used with passwords.
+- The salt is generated random.
+  
 ---
 
 ## ⚙️ Prerequisites
