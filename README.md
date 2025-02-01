@@ -1,4 +1,4 @@
-# 🔐 Secure-Chat-Application---Client-Server-Model
+# 🔐 Secure-Chat-Application__Client-Server-Model
 
 This project is a basic implementation of a **secure chat application** using the **client-server model**. The application allows users to **register, log in, and chat securely** with encrypted communication.  
 It uses **Diffie-Hellman key exchange** for key agreement and **AES-128 encryption** for message confidentiality.
