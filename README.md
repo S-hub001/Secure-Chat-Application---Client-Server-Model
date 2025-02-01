@@ -73,5 +73,5 @@ g++ server.cpp -o s -lssl -lcrypto
 g++ client.cpp -o c -lssl -lcrypto
 
 ### ** Execute: **
-**./s** -> for server.cpp on one terminal
-**./c** -> for client.cpp on another terminal
+- **./s** -> for server.cpp on one terminal
+- **./c** -> for client.cpp on another terminal
